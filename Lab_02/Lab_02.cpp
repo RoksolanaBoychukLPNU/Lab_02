@@ -22,8 +22,9 @@ int main()
     z1 = cos(a) + sin(a) + cos(3 * a) + sin(3 * a);
     z2 = 2 * sqrt(2) * cos(a) * sin(2 * a + Pi / 4);
 
-    cout << "z1 = " << z1 << endl;
-    cout << "z2 = " << z2 << endl;
+	cout << "---------------------------------" << endl;
+    cout << "z1= " << z1 << endl;
+    cout << "z2= " << z2 << endl;
 
     cin.get();
     return 0;
