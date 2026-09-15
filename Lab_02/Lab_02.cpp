@@ -26,6 +26,7 @@ int main()
     cout << "z1= " << z1 << endl;
     cout << "z2= " << z2 << endl;
 
+	cout << "bla bla bla" << endl;
     cin.get();
     return 0;
 }
