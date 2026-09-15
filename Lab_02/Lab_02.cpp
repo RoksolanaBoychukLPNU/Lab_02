@@ -23,8 +23,9 @@ int main()
     z2 = 2 * sqrt(2) * cos(a) * sin(2 * a + Pi / 4);
 
 	cout << "---------------------------------" << endl;
-    cout << "z1= " << z1 << endl;
-    cout << "z2= " << z2 << endl;
+    cout << "z1 = " << z1 << endl;
+    cout << "z2 = " << z2 << endl;
+	cout << "---------------------------------" << endl;
 
 	cout << "bla bla bla" << endl;
     cin.get();
